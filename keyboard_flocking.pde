@@ -1,3 +1,7 @@
+//this program is inspired by Daniel Shiffman's code of flocking behavior, and I rewrite the code based on his original coding
+//the program run in processing, and make a flocking behavior combines with typying
+
+
 import ddf.minim.*;
 Minim minim;
 AudioSample press[]=new AudioSample[26];
